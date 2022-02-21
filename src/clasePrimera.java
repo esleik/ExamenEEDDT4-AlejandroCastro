@@ -5,7 +5,7 @@
 //*@Param ClasePadre
 //*@return devuelveNameVolar,get,set,deLasHabilidades
 //*@Since 21/02/2022 , Hora12:25
-//no vuela
+
 
 
 public class clasePrimera {
@@ -36,7 +36,7 @@ public class clasePrimera {
 	
 	
 	protected void Caminar() {
-		System.out.println("Camina rapido");
+		System.out.println();
 	}
 		
 	}
