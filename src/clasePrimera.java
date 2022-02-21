@@ -36,7 +36,7 @@ public class clasePrimera {
 	
 	
 	protected void Caminar() {
-		System.out.println();
+		System.out.println("caminando");
 	}
 		
 	}
